@@ -53,13 +53,13 @@ Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a stron
 ---
 
 ## 📂 Featured Projects
-- [**Pi-hole Log Parser**](https://github.com/Brand3n123/the-plan/tree/main/Python/Files/pihole-log-parser)  
+- [**Pi-hole Log Parser**](https://github.com/Brand3n123/The-Plan/tree/main/Python/Custom%20Projects/log_triage)  
   CLI parser to extract and summarize top domains from DNS logs.  
 
-- [**Home Lab Architecture**](https://github.com/Brand3n123/the-plan/tree/main/Home-Lab)  
+- [**Home Lab Architecture**](https://github.com/Brand3n123/the-plan/Home-Lab)  
   Documentation of segmented lab environment with pfSense, Cisco, Brocade, SIEM, and IDS.  
 
-- [**Python Utils (in progress)**](https://github.com/Brand3n123/Python)  
+- [**Python Utils (in progress)**](https://github.com/Brand3n123/The-Plan/tree-main/Python)  
   CLI utilities for parsing syslogs, decorators for reusable code, and unit tests.
 
 ---
