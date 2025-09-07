@@ -18,8 +18,8 @@ Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a stron
   - CompTIA Security+ (2025–2028)  
   - CompTIA Network+ (2025–2028)  
   - ISC2 Certified in Cybersecurity (2025–2026)  
-  - Google AI Essentials  
-  - Codecademy SQL + JavaScript  
+  - Google: AI Essentials  
+  - Codecademy: Python 3 + SQL + JavaScript  
 
 ---
 
