@@ -59,13 +59,13 @@ Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a stron
 - [**Home Lab Architecture**](https://github.com/Brand3n123/the-plan/Home-Lab)  
   Documentation of segmented lab environment with pfSense, Cisco, Brocade, SIEM, and IDS.  
 
-- [**Python Utils (in progress)**](https://github.com/Brand3n123/The-Plan/tree-main/Python)  
+- [**Python Utils (in progress)**](https://github.com/Brand3n123/The-Plan/tree/main/Python)  
   CLI utilities for parsing syslogs, decorators for reusable code, and unit tests.
 
 ---
 
 ## 📌 The Plan
-My [**Roadmap.md**](https://github.com/Brand3n123/the-plan/blob/main/Roadmap.md) is a living document tracking milestones, repos, and resume tie-ins. It connects coursework → projects → certs → portfolio, ensuring transparency and accountability.  
+My [**Roadmap.md**](https://github.com/Brand3n123/The-Plan/blob/main/roadmap.md) is a living document tracking milestones, repos, and resume tie-ins. It connects coursework → projects → certs → portfolio, ensuring transparency and accountability.  
 
 ---
 
