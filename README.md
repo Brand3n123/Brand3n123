@@ -71,5 +71,5 @@ My [**Roadmap.md**](https://github.com/Brand3n123/the-plan/blob/main/Roadmap.md)
 
 📫 **Contact**  
 - Email: weeks.branden93@gmail.com  
-- LinkedIn: *[(add once optimized)](https://www.linkedin.com/in/branden-weeks-45a81b165/)*  
-- GitHub: [github.com/Brand3n123>](https://github.com/Brand3n123)  
+- LinkedIn: *[Click Here](https://www.linkedin.com/in/branden-weeks-45a81b165/)*  
+- GitHub: [Click Here](https://github.com/Brand3n123)  
