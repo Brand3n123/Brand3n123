@@ -2,7 +2,7 @@ Hi, I’m Branden Weeks
 
 🔐 **Aspiring Cybersecurity & Cloud Professional | Python & AI Enthusiast**  
 
-Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a strong foundation in hands-on lab work, CompTIA certifications, and practical coding projects. My career goal is to secure a role in IT by **December 2025** and gain the necessary skills and knowledge to move into a cybersecurity, cloud, or AI role by **June 2027**.  
+Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a strong foundation in hands-on lab work, CompTIA certifications, and practical coding projects. My career goal is to secure a role in IT by **December 2025** and gain the necessary skills, knowledge, and experience to move into a cybersecurity, cloud, or AI role by **June 2027**.  
 
 ---
 
