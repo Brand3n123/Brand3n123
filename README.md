@@ -11,7 +11,7 @@ Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a stron
 - Actively pursuing **Intermediate Python** with a focus on automation, log parsing, and reusable tools.  
 - Managing a **home lab** simulating enterprise IT:  
   - pfSense firewall VM  
-  - Cisco router + Brocade switch (VLAN segmentation)  
+  - Cisco router + Brocade switch + Netgear switch (VLAN segmentation)  
   - Pi-hole DNS filtering  
   - Wazuh SIEM + Suricata IDS  
 - Certifications earned:  
@@ -19,7 +19,7 @@ Currently pivoting into IT, cybersecurity, and AI/cloud engineering with a stron
   - CompTIA Network+ (2025–2028)  
   - ISC2 Certified in Cybersecurity (2025–2026)  
   - Google: AI Essentials  
-  - Codecademy: Python 3 + SQL + JavaScript  
+  - Codecademy: Python 3,  SQL, and JavaScript 
 
 ---
 
@@ -71,5 +71,5 @@ My [**Roadmap.md**](https://github.com/Brand3n123/The-Plan/blob/main/roadmap.md)
 
 📫 **Contact**  
 - Email: weeks.branden93@gmail.com  
-- LinkedIn: *[Click Here](https://www.linkedin.com/in/branden-weeks-45a81b165/)*  
+- LinkedIn: [Click Here](https://www.linkedin.com/in/branden-weeks-45a81b165/)  
 - GitHub: [Click Here](https://github.com/Brand3n123)  
